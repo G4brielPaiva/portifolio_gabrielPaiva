@@ -9,7 +9,6 @@ Portifólio de projeto de tecnologia de Gabriel Paiva
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/gabriel-paiva-a28836373/))
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-gabpaiva777@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
  
@@ -18,7 +17,7 @@ Atualmente cursando o 2º período de Ciêcncia na Univesidade Cidade de São Pa
  
 * *Habilidades Técnicas:* Python, HTML5, CSS3, SQL, Supabase, Bubble, JavaScript.
 * *Habilidades Socioemocionais:* Trabalho em equipe, comunicação assertiva, pensamento crítico e analítico.
-* *Experiência/Projetos Relevantes:* Atuei em um projeto de estufa automatica com arduino onde desenvolvi habilidades com programação em C e de elétrica.
+* *Experiência/Projetos Relevantes:* Atuei em um projeto de estufa automatizada com arduino uno onde desenvolvi habilidades com programação em C e de elétrica.
  
 ---
  
@@ -38,20 +37,14 @@ Atualmente cursando o 2º período de Ciêcncia na Univesidade Cidade de São Pa
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| *Sistema de Gestão Escolar* | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| *Predição de Churn* | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| *Engenharia de prompt* | Utilização das técnicas de engenharia de prompt para desenvolver códigos de alta precisão | [Ver Projeto](./projeto_enganhariadeprompt) |
+| *Laboratório de Classificação Visual* | Utilização das técnicas aprendidas em aula para treinar uma ia para classificar | [Ver Projeto](./projeto_LaboratóriodeClassificaçãoVisual) |
+| *Batalha de Modelos & Engenharia de Prompt* | Análise feita a partir de conteúdo aprendido em aula | [Ver Projeto](./projeto_BatalhadeModelos&EngenhariadePrompt) |
+| *Engenharia Reversa* | Análise feita a partir do prompt gerado com google ai studio | [Ver Projeto](./projeto_EngenhariaReversa) |
+| *MVP+* | Utilização do google ai studio para melhorar ainda mais o site analisado em engenharia reversa | [Ver Projeto](./projeto_MVP) |
+| *Engenharia de Software e IA com Bubble.io* | Utilização das técnicas de engenharia de prompt para desenvolver códigos de alta precisão | [Ver Projeto](./projeto_Engenharia de Software e IA com Bubble.io) |
  
 ---
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- root/: Arquivo de apresentação principal.
-- /projeto-nome/: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
