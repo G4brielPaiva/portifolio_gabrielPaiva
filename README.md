@@ -1,6 +1,3 @@
-# portifolio_gabrielPaiva
-Portifólio de projeto de tecnologia de Gabriel Paiva
-
 # Gabriel Paiva Da Silva Souza
 > Estudante de Ciência da computação
  
