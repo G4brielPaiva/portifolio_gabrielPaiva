@@ -42,7 +42,7 @@ Atualmente cursando o 2º período de Ciêcncia na Univesidade Cidade de São Pa
 | *Batalha de Modelos & Engenharia de Prompt* | Análise feita a partir de conteúdo aprendido em aula | [Ver Projeto](./projeto_BatalhadeModelos&EngenhariadePrompt) |
 | *Engenharia Reversa* | Análise feita a partir do prompt gerado com google ai studio | [Ver Projeto](./projeto_EngenhariaReversa) |
 | *MVP+* | Utilização do google ai studio para melhorar ainda mais o site analisado em engenharia reversa | [Ver Projeto](./projeto_MVP) |
-| *Engenharia de Software e IA com Bubble.io* | Utilização das técnicas de engenharia de prompt para desenvolver códigos de alta precisão | [Ver Projeto](./projeto_Engenharia de Software e IA com Bubble.io) |
+| *Engenharia de Software e IA com Bubble.io* | Utilização das técnicas de engenharia de prompt para desenvolver códigos de alta precisão | [Ver Projeto](https://github.com/G4brielPaiva/portfolio-gabriel-paiva-da-silva-souza/tree/main/projeto_Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
 | *Videoconferência com Manus AI e Jitsi* | Desenvolvimento de aplicação utilizando manus ai e integrando o jetsi para videoconferencia | [Ver Projeto](./manus-ai) |
  
 ---
